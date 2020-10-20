@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/s3Repository/.vs/s3Repository
+/s3Repository/AWS.S3.Repository/bin/Debug/netcoreapp3.1
+/s3Repository/AWS.S3.Repository/obj
